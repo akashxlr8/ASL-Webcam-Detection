@@ -1,6 +1,6 @@
 # ASL Webcam Detection using OpenCV
 
-![ASL Webcam Detection](https://link.to/your/image)
+![ASL Webcam Detection](sign-language-lead.gifsign-language-lead.gif)
 
 ## Overview
 This GitHub repository houses an application developed to detect American Sign Language (ASL) gestures using a webcam. Leveraging the power of OpenCV, this project aims to provide real-time ASL interpretation by analyzing video input from a webcam.
